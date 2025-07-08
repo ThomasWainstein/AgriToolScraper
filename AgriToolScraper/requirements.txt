@@ -1,6 +1,14 @@
+# Web automation & scraping
 selenium==4.12.0
-openai
+beautifulsoup4
+lxml
 requests
-python-dotenv
-supabase==1.0.3
+
+# Data handling
+pandas
 tqdm
+
+# Environment & API access
+python-dotenv
+openai
+supabase==1.0.3
